@@ -94,7 +94,7 @@ Responsável por todas as etapas do projeto:
 
 ### Painel Equipe
 
-![Painel Equipe](Painel%20Equipe (2).png)
+![Painel Equipe](Painel%20Equipe%20(2).png)
 
 ### Painel Individual
 
